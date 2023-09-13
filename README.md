@@ -1,5 +1,5 @@
-# Predict CO2 Emissions | S3E20
+#  Improve a Fixed Model the Data-Centric Way | S3E21
 
 To View Jupyter Notebook:
 
- -- [predict_co2_emissions_in_rwanda.ipynb](https://nbviewer.org/github/khashpavan/predict_co2_emissions__s3e20/blob/master/predict_co2_emissions_in_rwanda.ipynb)
+ -- [improve_a_fixed_model_data_centric_way.ipynb](https://nbviewer.org/github/khashpavan/improve_fixed_model_centric_way__s3e21/blob/master/improve_a_fixed_model_data_centric_way.ipynb)
