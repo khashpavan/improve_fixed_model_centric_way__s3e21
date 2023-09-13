@@ -1,2 +1,5 @@
-# improve_fixed_model_centric_way__s3e21
-Improving Data most Generic way for simple model to work | Kaggle Competitions
+# Predict CO2 Emissions | S3E20
+
+To View Jupyter Notebook:
+
+ -- [predict_co2_emissions_in_rwanda.ipynb](https://nbviewer.org/github/khashpavan/predict_co2_emissions__s3e20/blob/master/predict_co2_emissions_in_rwanda.ipynb)
